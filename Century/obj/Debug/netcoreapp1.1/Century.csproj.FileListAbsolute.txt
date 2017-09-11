@@ -1,0 +1,9 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\bin\Debug\netcoreapp1.1\Century.deps.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\bin\Debug\netcoreapp1.1\Century.runtimeconfig.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\bin\Debug\netcoreapp1.1\Century.runtimeconfig.dev.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\obj\Debug\netcoreapp1.1\Century.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\obj\Debug\netcoreapp1.1\Century.AssemblyInfo.cs
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\bin\Debug\netcoreapp1.1\Century.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\bin\Debug\netcoreapp1.1\Century.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\obj\Debug\netcoreapp1.1\Century.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Century\Century\obj\Debug\netcoreapp1.1\Century.pdb
